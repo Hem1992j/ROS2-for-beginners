@@ -1,0 +1,40 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hem/git_ws/build/py_package",
+        "/home/hem/git_ws/install/py_package/lib/python3.10/site-packages",
+        "/home/hem/ros2_ws/build/turtlesim_catch",
+        "/home/hem/ros2_ws/install/turtlesim_catch/lib/python3.10/site-packages",
+        "/home/hem/ros2_ws/install/repeat/lib/python3.10/site-packages",
+        "/home/hem/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/hem/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/hem/ros2_ws/install/activity/lib/python3.10/site-packages",
+        "/home/hem/ros2_ws/build/action_tutorials_py",
+        "/home/hem/ros2_ws/install/action_tutorials_py/lib/python3.10/site-packages",
+        "/home/hem/ros2_ws/install/actions_tutorials_interfaces/local/lib/python3.10/dist-packages",
+        "/home/hem/practice_ws/install/led_intefaces/local/lib/python3.10/dist-packages",
+        "/home/hem/practice_ws/install/april_test/lib/python3.10/site-packages",
+        "/home/hem/practice_ws/build/april_activity",
+        "/home/hem/practice_ws/install/april_activity/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/hem/git_ws/build/py_package",
+        "/home/hem/git_ws/install/py_package/lib/python3.10/site-packages",
+        "/home/hem/ros2_ws/build/turtlesim_catch",
+        "/home/hem/ros2_ws/install/turtlesim_catch/lib/python3.10/site-packages",
+        "/home/hem/ros2_ws/install/repeat/lib/python3.10/site-packages",
+        "/home/hem/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/hem/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/hem/ros2_ws/install/activity/lib/python3.10/site-packages",
+        "/home/hem/ros2_ws/build/action_tutorials_py",
+        "/home/hem/ros2_ws/install/action_tutorials_py/lib/python3.10/site-packages",
+        "/home/hem/ros2_ws/install/actions_tutorials_interfaces/local/lib/python3.10/dist-packages",
+        "/home/hem/practice_ws/install/led_intefaces/local/lib/python3.10/dist-packages",
+        "/home/hem/practice_ws/install/april_test/lib/python3.10/site-packages",
+        "/home/hem/practice_ws/build/april_activity",
+        "/home/hem/practice_ws/install/april_activity/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
