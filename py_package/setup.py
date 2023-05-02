@@ -22,7 +22,9 @@ setup(
         'console_scripts': [
             "first_node = py_package.first_node_oop:main",
             "first_publisher = py_package.my_first_publisher:main",
-            "first_subscriber = py_package.my_first_subscriber:main"
+            "first_subscriber = py_package.my_first_subscriber:main",
+            "add_two_ints_server = py_package.add_two_ints_server:main",
+            "add_two_ints_client = py_package.add_two_ints_client:main"
         ],
     },
 )
