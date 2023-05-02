@@ -20,7 +20,11 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+<<<<<<< HEAD
             "number_publisher = activity_one.number_publishe:main",
+=======
+            "number_publisher = activity_one.number_publisher:main",
+>>>>>>> b2b2110 (added second activity)
             "number_counter = activity_one.number_counter:main"
         ],
     },
